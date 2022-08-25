@@ -3,7 +3,7 @@
 I'm currently studying at CSE in AUST.
 
 Skills: 
--C, C++, C#, JS, OOP, DSA
+-C, C++, C#, JS, OOP, DSA </br>
 -ASP.NET, ANGULAR JS 
 -HTML,CSS, MS SQL
 
