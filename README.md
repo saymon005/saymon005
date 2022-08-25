@@ -2,7 +2,10 @@
 #### Competitive Programmer
 I'm currently studying at CSE in AUST.
 
-Skills: C / C++ / C# / ASP.NET / JS /HTML / CSS
+Skills: 
+-C, C++, C#, JS, OOP, DSA
+-ASP.NET, ANGULAR JS 
+-HTML,CSS, MS SQL
 
 - 🌱 I’m currently learning Number Theory 
 - 💬 Ask me about OOP, DSA, Asp.net Core
