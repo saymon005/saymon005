@@ -4,8 +4,8 @@ I'm currently studying at CSE in AUST.
 
 Skills: 
 -C, C++, C#, JS, OOP, DSA </br>
--ASP.NET, ANGULAR JS 
--HTML,CSS, MS SQL
+-ASP.NET, ANGULAR JS </br>
+-HTML,CSS, MS SQL </br>
 
 - 🌱 I’m currently learning Number Theory 
 - 💬 Ask me about OOP, DSA, Asp.net Core
