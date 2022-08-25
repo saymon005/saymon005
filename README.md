@@ -7,7 +7,7 @@ Skills: </br>
 - ASP.NET, ANGULAR JS </br>
 - HTML,CSS, MS SQL </br>
 
-- 🌱 I’m currently learning Number Theory 
+
 - 💬 Ask me about OOP, DSA, Asp.net Core
 
 
