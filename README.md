@@ -8,7 +8,7 @@ Skills: </br>
 - HTML,CSS, MS SQL </br>
 
 
-- 💬 Ask me about OOP, DSA, Asp.net Core
+- 💬 Ask me about OOP, DSA
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saymon005)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/m-saymon-islam-iftikar-7250291bb//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/saymon005)  
