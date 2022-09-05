@@ -4,7 +4,7 @@ I'm currently studying at CSE in AUST.
 
 Skills: </br>
 - C, C++, C#, JS, OOP, DSA </br>
-- ASP.NET, ANGULAR JS </br>
+- ASP.NET, ANGULAR </br>
 - HTML,CSS, MS SQL </br>
 
 
