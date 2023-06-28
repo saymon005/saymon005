@@ -3,9 +3,9 @@
 I'm currently studying at CSE in AUST.
 
 Skills: </br>
-- C, C++, C#, JS, OOP, DSA </br>
+- C, C++, C#, JS, TS, OOP, DSA </br>
 - ASP.NET, ANGULAR </br>
-- HTML,CSS, MS SQL </br>
+- HTML, CSS, MS SQL </br>
 
 
 - 💬 Ask me about OOP, DSA
