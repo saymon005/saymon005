@@ -3,8 +3,8 @@
 I'm currently studying at CSE in AUST.
 
 Skills: </br>
-- C, C++, C#, JS, TS, OOP, DSA </br>
-- ASP.NET, ANGULAR </br>
+- Python, C, C++, C#, JS, TS, OOP, DSA, ML, DL </br>
+- Django, ASP.NET, React, ANGULAR </br>
 - HTML, CSS, MS SQL </br>
 
 
