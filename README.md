@@ -4,7 +4,7 @@ I'm currently studying at CSE in AUST.
 
 Skills: </br>
 - Python, C, C++, C#, JS, TS, OOP, DSA, ML, DL </br>
-- Django, ASP.NET, React, ANGULAR </br>
+- ASP.NET Core, ASP.NET MVC, Django </br>
 - HTML, CSS, MS SQL </br>
 
 
